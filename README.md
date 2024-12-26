@@ -64,6 +64,3 @@ Contribuições são bem-vindas! Caso tenha sugestões ou melhorias, sinta-se à
 
 ---
 
-## **📜 Licença**
-
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
