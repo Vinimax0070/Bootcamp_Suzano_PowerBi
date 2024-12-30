@@ -24,6 +24,33 @@ Este repositório contém 3 dashboards desenvolvidos no Power BI, utilizando os 
    - Visualização da distribuição de métricas principais por país e segmento.
    - **Métricas principais**:
      - 💵 Lucro, 📈 vendas e 📦 unidades vendidas agregadas por dimensões geográficas e demográficas.
+📊 Descrição dos Dashboards
+
+4.**📈Sales Report - Produtos e Segmentos**
+
+Análise detalhada das vendas considerando diferentes produtos e segmentos.
+
+- Métricas principais:
+
+   - 💰 Receita total por produto.
+
+   - 📊 Desempenho por segmento.
+
+   - 🌍 Distribuição de vendas por região.
+
+5.**🌍 Report de Lucro Detalhado - Países e Segmentos**
+
+Foco na análise de lucro e vendas em diferentes países e segmentos específicos.
+
+- Métricas principais:
+
+   - 🏆 Lucro total por país.
+
+   - 🌐 Comparativo entre segmentos para máxima lucratividade.
+
+   - 📊 Lucro por trimestres e produtos destacados.
+
+
 
 ---
 
@@ -55,6 +82,8 @@ Os dashboards também estão disponíveis em formato PDF para visualização rá
 - 📄 [Relatório de Vendas - Produtos e Segmentos](Exports/Relatorio_Produtos_Segmentos.pdf)
 - 📄 [Relatório de Vendas - Países e Lucro](Exports/Relatorio_Paises_Lucro.pdf)
 - 📄 [Distribuição de Métricas](Exports/Distribuicao_Metricas.pdf)
+- 📄 [Sales Report](Exports/SalesReport.pdf)
+- 📄 [Report de lucro detalhado](Exports/ReportLucroDetalhado.pdf)
 
 ---
 
