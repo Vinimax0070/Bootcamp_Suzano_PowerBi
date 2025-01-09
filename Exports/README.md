@@ -6,4 +6,5 @@ Os dashboards também estão disponíveis em formato PDF para visualização rá
 - 🌍 [Relatório de Vendas - Países e Lucro](Relatorio_Paises_Lucro.pdf)
 - 📊 [Distribuição de Métricas](Distribuicao_Metricas.pdf)
 - 📈 [Sales Report](SalesReport.pdf)
+- 📈 [2 opção de sales report](2_Option_Sales_Report.pdf)
 - 🎯[Report de Lucro Detalhado](ReportLucroDetalhado.pdf)
